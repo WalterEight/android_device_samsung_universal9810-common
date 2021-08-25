@@ -59,7 +59,6 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/charger/battery_scale.png:$(TARGET_COPY_OUT_PRODUCT)/etc/res/images/charger/battery_scale.png \
     $(LOCAL_PATH)/charger/battery_fail.png:$(TARGET_COPY_OUT_PRODUCT)/etc/res/images/charger/battery_fail.png \
     $(LOCAL_PATH)/charger/main_font.png:$(TARGET_COPY_OUT_PRODUCT)/etc/res/images/charger/main_font.png
-WITH_LINEAGE_CHARGER := false
 
 # Audio
 PRODUCT_COPY_FILES += \
